@@ -42,7 +42,56 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Arastoo Yousefi from Iran!<br>- 🔭 I’m working as an indie developer. <br>- 📚 I'm currently learning Everything!</p>
+<p data-importer="text" align="left">
+I'm Arastoo — an indie developer driven by curiosity, creativity, and a bit of controlled chaos.<br>
+  
+I see programming as something more than writing code.<br>
+To me, it's a way to extend human thought and build systems that can go beyond the limits of a single mind.<br>
+
+My journey started with robotics, and since then I've been exploring different worlds of development — from game design and 3D work to AI systems that feel more like companions than tools.<br>
+
+I don't stick to a single stack or label. I prefer exploring ideas, breaking them apart, and rebuilding them into something more meaningful.<br>
+
+Right now, my main focus is building an AI system inspired by characters like JARVIS and Chloe from *Detroit: Become Human* — something that can grow, learn, and actually assist in meaningful ways.<br>
+</p>
+
+###
+
+<h3 data-importer="text" align="left">🧩 How I work</h3>
+
+###
+
+<p data-importer="text" align="left">
+- I prefer working independently, but I can work in teams if I have creative control over direction<br>
+- I tend to lead projects naturally to keep things aligned with my vision<br>
+- I enjoy deep focus sessions where I can build without interruption<br>
+</p>
+
+###
+
+<h3 data-importer="text" align="left">🎯 Goals</h3>
+
+###
+
+<p data-importer="text" align="left">
+My goal is to build a personal AI system within the next two years — something that evolves over time and becomes a real assistant, not just a program.
+</p>
+
+
+###
+
+<h3 data-importer="text" align="left">🎨 Outside of code</h3>
+
+###
+
+<p data-importer="text" align="left">
+  I also have a background in music, experience in MMA, and a strong interest in 3D art, game development, and design.<br>
+  I like staying in a calm, focused mindset while working — building things at my own pace, in my own way.
+  
+---
+
+> I don't want to just use technology. I want to create things that feel alive in their own way.
+</p>
 
 ###
 
