@@ -9,7 +9,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdkNXF2dWhlcndwY2l6c2pkczhnb3p1NXZqbzRxN2VibXVzNHdyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tj1tqx8f8unnKx1DIh/giphy.gif"  />
+  <img data-importer="image" height="150" src="Assets/Gifs/code1.gif"  />
 </div>
 
 ###
@@ -28,7 +28,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+<h1 data-importer="text" align="center">Something On Develope... <img src="Assets/Gifs/code.gif" width="22"></h1>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Arastoo Yousefi from Iran!<br>- 🔭 I’m working as an indie developer. <img src="google.com" width="22"><br>- 📚 I'm currently learning Everything!</p>
+<p data-importer="text" align="left">I'm Arastoo Yousefi from Iran!<br>- 🔭 I’m working as an indie developer. <br>- 📚 I'm currently learning Everything!</p>
 
 ###
 
